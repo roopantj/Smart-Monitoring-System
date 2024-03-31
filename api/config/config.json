@@ -1,0 +1,10 @@
+{
+    "cameraConfig": [
+        {
+            "deviceId": "CAM_002",
+            "deviceName": "Camera 1",
+            "ip": "0.0.0.0",
+            "createdAt": "2024-03-31T18:24:02.180Z"
+        }
+    ]
+}
